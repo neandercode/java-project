@@ -4,5 +4,8 @@ public class MoreNum {
         int y = 6;
         int z = 50;
         System.out.println(x + y + z);
+
+        int a = 7, b = 8, c = 42;
+        System.out.println(a + b + c);
     }
 }
