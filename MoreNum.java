@@ -7,5 +7,9 @@ public class MoreNum {
 
         int a = 7, b = 8, c = 42;
         System.out.println(a + b + c);
+
+        int l, m, n;
+        l = m = n = 42;
+        System.out.println(l + m + n);
     }
 }
